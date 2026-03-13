@@ -1,0 +1,583 @@
+<!--Bruker Daltonics  (BDAL) may occasionally provide you with updates 
+of this file format in a manner that seems to be appropriate to BDAL. 
+All such updates shall be deemed to be part of the BDAL software 
+for all purposes hereunder. 
+ In case you use BDAL - file formats in any other manner, 
+BDAL shall not be liable for any loss or damage caused. Furthermore you are not entitled to claim compatibility of updated 
+formats with older versions.-->
+<FilterContainer name="5b342156-1074-4f17-988a-72d144b3f53e" cid="" version="1.0.46.31">
+<Content name="Baseline Subtraction">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>TopHat</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<ConvexHullV3 cid="F3B82837-D5A5-4FFF-A8EF-03664FF74F00">
+			<Parameter cid="13C3FEBB-A225-4352-A563-777159178858">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</ConvexHullV3>
+		<Median cid="BDA96754-CB89-9622-3EFA-2CCB77000000">
+			<Parameter cid="F139916F-6195-BC94-7DE0-494AA2000000">
+				<Flatness type="Double">0.1</Flatness>
+				<MedianLevel type="Double">0.5</MedianLevel>
+			</Parameter>
+		</Median>
+		<TopHat cid="1A775981-5562-48C9-9737-BB172208B986">
+			<Parameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</TopHat>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="Baseline Subtraction MLE Apex">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>TopHat</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<ConvexHullV3 cid="F3B82837-D5A5-4FFF-A8EF-03664FF74F00">
+			<Parameter cid="13C3FEBB-A225-4352-A563-777159178858">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</ConvexHullV3>
+		<Median cid="BDA96754-CB89-9622-3EFA-2CCB77000000">
+			<Parameter cid="F139916F-6195-BC94-7DE0-494AA2000000">
+				<Flatness type="Double">0.8</Flatness>
+				<MedianLevel type="Double">0.5</MedianLevel>
+			</Parameter>
+		</Median>
+		<TopHat cid="1A775981-5562-48C9-9737-BB172208B986">
+			<Parameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</TopHat>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="Baseline Subtraction MLE Centroid">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>TopHat</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<ConvexHullV3 cid="F3B82837-D5A5-4FFF-A8EF-03664FF74F00">
+			<Parameter cid="13C3FEBB-A225-4352-A563-777159178858">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</ConvexHullV3>
+		<Median cid="BDA96754-CB89-9622-3EFA-2CCB77000000">
+			<Parameter cid="F139916F-6195-BC94-7DE0-494AA2000000">
+				<Flatness type="Double">0.8</Flatness>
+				<MedianLevel type="Double">0.5</MedianLevel>
+			</Parameter>
+		</Median>
+		<TopHat cid="1A775981-5562-48C9-9737-BB172208B986">
+			<Parameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</TopHat>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="Baseline Subtraction MLE CorrEnh">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>TopHat</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<ConvexHullV3 cid="F3B82837-D5A5-4FFF-A8EF-03664FF74F00">
+			<Parameter cid="13C3FEBB-A225-4352-A563-777159178858">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</ConvexHullV3>
+		<Median cid="BDA96754-CB89-9622-3EFA-2CCB77000000">
+			<Parameter cid="F139916F-6195-BC94-7DE0-494AA2000000">
+				<Flatness type="Double">0.8</Flatness>
+				<MedianLevel type="Double">0.5</MedianLevel>
+			</Parameter>
+		</Median>
+		<TopHat cid="1A775981-5562-48C9-9737-BB172208B986">
+			<Parameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</TopHat>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="Baseline Subtraction MLE Snap">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>TopHat</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<Median cid="BDA96754-CB89-9622-3EFA-2CCB77000000">
+			<Parameter cid="F139916F-6195-BC94-7DE0-494AA2000000">
+				<Flatness type="Double">0.8</Flatness>
+				<MedianLevel type="Double">0.5</MedianLevel>
+			</Parameter>
+		</Median>
+		<TopHat cid="1A775981-5562-48C9-9737-BB172208B986">
+			<Parameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</TopHat>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="Baseline Subtraction MLE Sum">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>TopHat</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<ConvexHullV3 cid="F3B82837-D5A5-4FFF-A8EF-03664FF74F00">
+			<Parameter cid="13C3FEBB-A225-4352-A563-777159178858">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</ConvexHullV3>
+		<Median cid="BDA96754-CB89-9622-3EFA-2CCB77000000">
+			<Parameter cid="F139916F-6195-BC94-7DE0-494AA2000000">
+				<Flatness type="Double">0.8</Flatness>
+				<MedianLevel type="Double">0.5</MedianLevel>
+			</Parameter>
+		</Median>
+		<TopHat cid="1A775981-5562-48C9-9737-BB172208B986">
+			<Parameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</TopHat>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="Baseline Subtraction MLE XMass">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>TopHat</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<ConvexHullV3 cid="F3B82837-D5A5-4FFF-A8EF-03664FF74F00">
+			<Parameter cid="13C3FEBB-A225-4352-A563-777159178858">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</ConvexHullV3>
+		<Median cid="BDA96754-CB89-9622-3EFA-2CCB77000000">
+			<Parameter cid="F139916F-6195-BC94-7DE0-494AA2000000">
+				<Flatness type="Double">0.8</Flatness>
+				<MedianLevel type="Double">0.5</MedianLevel>
+			</Parameter>
+		</Median>
+		<TopHat cid="1A775981-5562-48C9-9737-BB172208B986">
+			<Parameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</TopHat>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="Baseline Subtraction MLF Apex">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>TopHat</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<ConvexHullV3 cid="F3B82837-D5A5-4FFF-A8EF-03664FF74F00">
+			<Parameter cid="13C3FEBB-A225-4352-A563-777159178858">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</ConvexHullV3>
+		<Median cid="BDA96754-CB89-9622-3EFA-2CCB77000000">
+			<Parameter cid="F139916F-6195-BC94-7DE0-494AA2000000">
+				<Flatness type="Double">0.8</Flatness>
+				<MedianLevel type="Double">0.5</MedianLevel>
+			</Parameter>
+		</Median>
+		<TopHat cid="1A775981-5562-48C9-9737-BB172208B986">
+			<Parameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</TopHat>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="Baseline Subtraction MLF Centroid">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>TopHat</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<ConvexHullV3 cid="F3B82837-D5A5-4FFF-A8EF-03664FF74F00">
+			<Parameter cid="13C3FEBB-A225-4352-A563-777159178858">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</ConvexHullV3>
+		<Median cid="BDA96754-CB89-9622-3EFA-2CCB77000000">
+			<Parameter cid="F139916F-6195-BC94-7DE0-494AA2000000">
+				<Flatness type="Double">0.1</Flatness>
+				<MedianLevel type="Double">0.5</MedianLevel>
+			</Parameter>
+		</Median>
+		<TopHat cid="1A775981-5562-48C9-9737-BB172208B986">
+			<Parameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</TopHat>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="Baseline Subtraction MLF CorrEnh">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>TopHat</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<ConvexHullV3 cid="F3B82837-D5A5-4FFF-A8EF-03664FF74F00">
+			<Parameter cid="13C3FEBB-A225-4352-A563-777159178858">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</ConvexHullV3>
+		<Median cid="BDA96754-CB89-9622-3EFA-2CCB77000000">
+			<Parameter cid="F139916F-6195-BC94-7DE0-494AA2000000">
+				<Flatness type="Double">0.8</Flatness>
+				<MedianLevel type="Double">0.5</MedianLevel>
+			</Parameter>
+		</Median>
+		<TopHat cid="1A775981-5562-48C9-9737-BB172208B986">
+			<Parameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</TopHat>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="Baseline Subtraction MLF Snap">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>TopHat</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<Median cid="BDA96754-CB89-9622-3EFA-2CCB77000000">
+			<Parameter cid="F139916F-6195-BC94-7DE0-494AA2000000">
+				<Flatness type="Double">0.8</Flatness>
+				<MedianLevel type="Double">0.5</MedianLevel>
+			</Parameter>
+		</Median>
+		<TopHat cid="1A775981-5562-48C9-9737-BB172208B986">
+			<Parameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</TopHat>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="Baseline Subtraction MLF Sum">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>TopHat</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<ConvexHullV3 cid="F3B82837-D5A5-4FFF-A8EF-03664FF74F00">
+			<Parameter cid="13C3FEBB-A225-4352-A563-777159178858">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</ConvexHullV3>
+		<Median cid="BDA96754-CB89-9622-3EFA-2CCB77000000">
+			<Parameter cid="F139916F-6195-BC94-7DE0-494AA2000000">
+				<Flatness type="Double">0.8</Flatness>
+				<MedianLevel type="Double">0.5</MedianLevel>
+			</Parameter>
+		</Median>
+		<TopHat cid="1A775981-5562-48C9-9737-BB172208B986">
+			<Parameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</TopHat>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="Baseline Subtraction MLF XMass">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>TopHat</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<ConvexHullV3 cid="F3B82837-D5A5-4FFF-A8EF-03664FF74F00">
+			<Parameter cid="13C3FEBB-A225-4352-A563-777159178858">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</ConvexHullV3>
+		<Median cid="BDA96754-CB89-9622-3EFA-2CCB77000000">
+			<Parameter cid="F139916F-6195-BC94-7DE0-494AA2000000">
+				<Flatness type="Double">0.8</Flatness>
+				<MedianLevel type="Double">0.5</MedianLevel>
+			</Parameter>
+		</Median>
+		<TopHat cid="1A775981-5562-48C9-9737-BB172208B986">
+			<Parameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F">
+				<Flatness type="Double">0.8</Flatness>
+			</Parameter>
+		</TopHat>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="MLE Combo">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>MLF_Reference</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<MLE_Reference cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+			<Active>Centroid</Active>
+			<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+				<Centroid cid="D24AB3CC-87C8-87B3-E356-FF2391000000">
+					<Parameter cid="397A3096-E32F-4731-99BB-4FC5C0FEE270">
+						<BaselineParameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F"/>
+						<CentroidPercent type="Double">80</CentroidPercent>
+						<MaxPeakCount type="Int32">1</MaxPeakCount>
+						<MinimumIntensity type="Double">0</MinimumIntensity>
+						<PeakFinderAlgorithm type="String">Centroid</PeakFinderAlgorithm>
+						<PeakWidth type="Double">0.2</PeakWidth>
+						<RelativeThresholdBasePeak type="Double">0</RelativeThresholdBasePeak>
+						<SignalToNoiseThreshold type="Double">0</SignalToNoiseThreshold>
+					</Parameter>
+				</Centroid>
+				<Snap cid="59943089-028D-8173-B87F-1043DA000000">
+					<Parameter cid="001056FE-1DC1-A063-97AA-AE498C000000">
+						<BaselineParameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F"/>
+						<BuildingBlockFile type="String">Averagine</BuildingBlockFile>
+						<BuildingBlockStrings cid="CE039962-A7A6-456B-8E0F-C36DF3F1CC94">
+							<Item>C 4.9384 N 1.3577 O 1.4773 S 0.0417 H 7.7583</Item>
+						</BuildingBlockStrings>
+						<CentroidPercent type="Double">80</CentroidPercent>
+						<GoodnessThreshold type="Double">0</GoodnessThreshold>
+						<ICATPartnerThreshSN type="Double">2.5</ICATPartnerThreshSN>
+						<MaxPeakCount type="Int32">1</MaxPeakCount>
+						<MinimumIntensity type="Double">0</MinimumIntensity>
+						<PeakWidth type="Double">0.75</PeakWidth>
+						<RelativeThresholdBasePeak type="Double">0</RelativeThresholdBasePeak>
+						<RemoveFragments type="Bool">false</RemoveFragments>
+						<SignalToNoiseThreshold type="Double">0</SignalToNoiseThreshold>
+						<UseICAT type="Bool">false</UseICAT>
+						<WidthFragments type="Double">0.75</WidthFragments>
+					</Parameter>
+				</Snap>
+				<Sum cid="5EBB93EE-C042-B744-DF0E-327F36000000">
+					<Parameter cid="DBD7DBA7-3AAD-978D-E411-F31D78000000">
+						<BaselineParameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F"/>
+						<CentroidPercent type="Double">80</CentroidPercent>
+						<MaxPeakCount type="Int32">1</MaxPeakCount>
+						<MinimumIntensity type="Double">0</MinimumIntensity>
+						<PeakWidth type="Double">0.2</PeakWidth>
+						<RelativeThresholdBasePeak type="Double">0</RelativeThresholdBasePeak>
+						<SignalToNoiseThreshold type="Double">0</SignalToNoiseThreshold>
+					</Parameter>
+				</Sum>
+			</Filter>
+		</MLE_Reference>
+		<MLF_Reference cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+			<Active>Centroid</Active>
+			<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+				<Centroid cid="D24AB3CC-87C8-87B3-E356-FF2391000000">
+					<Parameter cid="397A3096-E32F-4731-99BB-4FC5C0FEE270">
+						<BaselineParameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F"/>
+						<CentroidPercent type="Double">80</CentroidPercent>
+						<MaxPeakCount type="Int32">100</MaxPeakCount>
+						<MinIntensity type="Double">0</MinIntensity>
+						<MinimumIntensity type="Double">0</MinimumIntensity>
+						<PeakFinderAlgorithm type="String">Centroid</PeakFinderAlgorithm>
+						<PeakWidth type="Double">5</PeakWidth>
+						<RelativeThresholdBasePeak type="Double">0</RelativeThresholdBasePeak>
+						<SignalToNoiseThreshold type="Double">3</SignalToNoiseThreshold>
+						<UseMaxSensivityForPeakPicking type="Bool">true</UseMaxSensivityForPeakPicking>
+					</Parameter>
+				</Centroid>
+				<Snap cid="59943089-028D-8173-B87F-1043DA000000">
+					<Parameter cid="001056FE-1DC1-A063-97AA-AE498C000000">
+						<BaselineParameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F"/>
+						<BuildingBlockFile type="String">Averagine</BuildingBlockFile>
+						<BuildingBlockStrings cid="CE039962-A7A6-456B-8E0F-C36DF3F1CC94">
+							<Item>C 4.9384 N 1.3577 O 1.4773 S 0.0417 H 7.7583</Item>
+						</BuildingBlockStrings>
+						<CentroidPercent type="Double">80</CentroidPercent>
+						<GoodnessThreshold type="Double">50</GoodnessThreshold>
+						<ICATPartnerThreshSN type="Double">2.5</ICATPartnerThreshSN>
+						<MaxPeakCount type="Int32">100</MaxPeakCount>
+						<MinimumIntensity type="Double">0</MinimumIntensity>
+						<PeakWidth type="Double">0.75</PeakWidth>
+						<RelativeThresholdBasePeak type="Double">3</RelativeThresholdBasePeak>
+						<RemoveFragments type="Bool">false</RemoveFragments>
+						<SignalToNoiseThreshold type="Double">3</SignalToNoiseThreshold>
+						<UseICAT type="Bool">false</UseICAT>
+						<UseMaxSensivityForPeakPicking type="Bool">true</UseMaxSensivityForPeakPicking>
+						<WidthFragments type="Double">0.75</WidthFragments>
+					</Parameter>
+				</Snap>
+				<Sum cid="5EBB93EE-C042-B744-DF0E-327F36000000">
+					<Parameter cid="DBD7DBA7-3AAD-978D-E411-F31D78000000">
+						<BaselineParameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F"/>
+						<CentroidPercent type="Double">80</CentroidPercent>
+						<MaxPeakCount type="Int32">100</MaxPeakCount>
+						<MinimumIntensity type="Double">0</MinimumIntensity>
+						<PeakWidth type="Double">0.2</PeakWidth>
+						<RelativeThresholdBasePeak type="Double">0</RelativeThresholdBasePeak>
+						<SignalToNoiseThreshold type="Double">3</SignalToNoiseThreshold>
+						<UseMaxSensivityForPeakPicking type="Bool">true</UseMaxSensivityForPeakPicking>
+					</Parameter>
+				</Sum>
+			</Filter>
+		</MLF_Reference>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="Mass List Edit">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>Centroid</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<Centroid cid="D24AB3CC-87C8-87B3-E356-FF2391000000">
+			<Parameter cid="397A3096-E32F-4731-99BB-4FC5C0FEE270">
+				<BaselineParameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F"/>
+				<CentroidPercent type="Double">80</CentroidPercent>
+				<MaxPeakCount type="Int32">1</MaxPeakCount>
+				<MinimumIntensity type="Double">0</MinimumIntensity>
+				<PeakFinderAlgorithm type="String">Centroid</PeakFinderAlgorithm>
+				<PeakWidth type="Double">0.2</PeakWidth>
+				<RelativeThresholdBasePeak type="Double">0</RelativeThresholdBasePeak>
+				<SignalToNoiseThreshold type="Double">0</SignalToNoiseThreshold>
+			</Parameter>
+		</Centroid>
+		<Snap cid="59943089-028D-8173-B87F-1043DA000000">
+			<Parameter cid="001056FE-1DC1-A063-97AA-AE498C000000">
+				<BaselineParameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F"/>
+				<BuildingBlockFile type="String">Averagine</BuildingBlockFile>
+				<BuildingBlockStrings cid="CE039962-A7A6-456B-8E0F-C36DF3F1CC94">
+					<Item>C 4.9384 N 1.3577 O 1.4773 S 0.0417 H 7.7583</Item>
+				</BuildingBlockStrings>
+				<CentroidPercent type="Double">80</CentroidPercent>
+				<GoodnessThreshold type="Double">0</GoodnessThreshold>
+				<ICATPartnerThreshSN type="Double">2.5</ICATPartnerThreshSN>
+				<MaxPeakCount type="Int32">1</MaxPeakCount>
+				<MinimumIntensity type="Double">0</MinimumIntensity>
+				<PeakWidth type="Double">0.75</PeakWidth>
+				<RelativeThresholdBasePeak type="Double">0</RelativeThresholdBasePeak>
+				<RemoveFragments type="Bool">false</RemoveFragments>
+				<SignalToNoiseThreshold type="Double">0</SignalToNoiseThreshold>
+				<UseICAT type="Bool">false</UseICAT>
+				<WidthFragments type="Double">0.75</WidthFragments>
+			</Parameter>
+		</Snap>
+		<Sum cid="5EBB93EE-C042-B744-DF0E-327F36000000">
+			<Parameter cid="DBD7DBA7-3AAD-978D-E411-F31D78000000">
+				<BaselineParameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F"/>
+				<CentroidPercent type="Double">80</CentroidPercent>
+				<MaxPeakCount type="Int32">1</MaxPeakCount>
+				<MinimumIntensity type="Double">0</MinimumIntensity>
+				<PeakWidth type="Double">0.2</PeakWidth>
+				<RelativeThresholdBasePeak type="Double">0</RelativeThresholdBasePeak>
+				<SignalToNoiseThreshold type="Double">0</SignalToNoiseThreshold>
+			</Parameter>
+		</Sum>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="Mass List Find">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>Centroid</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<Centroid cid="D24AB3CC-87C8-87B3-E356-FF2391000000">
+			<Parameter cid="397A3096-E32F-4731-99BB-4FC5C0FEE270">
+				<BaselineParameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F"/>
+				<CentroidPercent type="Double">80</CentroidPercent>
+				<MaxPeakCount type="Int32">100</MaxPeakCount>
+				<MinIntensity type="Double">0</MinIntensity>
+				<MinimumIntensity type="Double">0</MinimumIntensity>
+				<PeakFinderAlgorithm type="String">Centroid</PeakFinderAlgorithm>
+				<PeakWidth type="Double">5</PeakWidth>
+				<RelativeThresholdBasePeak type="Double">0</RelativeThresholdBasePeak>
+				<SignalToNoiseThreshold type="Double">10</SignalToNoiseThreshold>
+				<UseMaxSensivityForPeakPicking type="Bool">true</UseMaxSensivityForPeakPicking>
+			</Parameter>
+		</Centroid>
+		<Snap cid="59943089-028D-8173-B87F-1043DA000000">
+			<Parameter cid="001056FE-1DC1-A063-97AA-AE498C000000">
+				<BaselineParameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F"/>
+				<BuildingBlockFile type="String">Averagine</BuildingBlockFile>
+				<BuildingBlockStrings cid="CE039962-A7A6-456B-8E0F-C36DF3F1CC94">
+					<Item>C 4.9384 N 1.3577 O 1.4773 S 0.0417 H 7.7583</Item>
+				</BuildingBlockStrings>
+				<CentroidPercent type="Double">80</CentroidPercent>
+				<GoodnessThreshold type="Double">50</GoodnessThreshold>
+				<ICATPartnerThreshSN type="Double">2.5</ICATPartnerThreshSN>
+				<MaxPeakCount type="Int32">100</MaxPeakCount>
+				<MinimumIntensity type="Double">0</MinimumIntensity>
+				<PeakWidth type="Double">0.75</PeakWidth>
+				<RelativeThresholdBasePeak type="Double">3</RelativeThresholdBasePeak>
+				<RemoveFragments type="Bool">false</RemoveFragments>
+				<SignalToNoiseThreshold type="Double">3</SignalToNoiseThreshold>
+				<UseICAT type="Bool">false</UseICAT>
+				<UseMaxSensivityForPeakPicking type="Bool">true</UseMaxSensivityForPeakPicking>
+				<WidthFragments type="Double">0.75</WidthFragments>
+			</Parameter>
+		</Snap>
+		<Sum cid="5EBB93EE-C042-B744-DF0E-327F36000000">
+			<Parameter cid="DBD7DBA7-3AAD-978D-E411-F31D78000000">
+				<BaselineParameter cid="6A073A1C-AD71-431C-A588-79E7200B4D3F"/>
+				<CentroidPercent type="Double">80</CentroidPercent>
+				<MaxPeakCount type="Int32">100</MaxPeakCount>
+				<MinimumIntensity type="Double">0</MinimumIntensity>
+				<PeakWidth type="Double">0.2</PeakWidth>
+				<RelativeThresholdBasePeak type="Double">0</RelativeThresholdBasePeak>
+				<SignalToNoiseThreshold type="Double">3</SignalToNoiseThreshold>
+				<UseMaxSensivityForPeakPicking type="Bool">true</UseMaxSensivityForPeakPicking>
+			</Parameter>
+		</Sum>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="SmoothSelection A">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active/>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<ChemicalNoiseV2 cid="0AA9C970-E0D3-BE7F-672D-102105000000">
+			<Parameter cid="6AC46B3D-C93B-B3EB-2856-E19F25000000"/>
+		</ChemicalNoiseV2>
+		<ChemicalNoiseV3 cid="C2EE7E16-B73E-BD2F-1B51-FE1BD4000000">
+			<Parameter cid="ED4CFCB5-9380-9FC8-BA7E-01A7D1000000"/>
+		</ChemicalNoiseV3>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+<Content name="Smoothing">
+<ComboFilter cid="A72B0A1D-B2E1-4E8C-909B-0F280753FCF0">
+	<Active>SavitzkyGolay</Active>
+	<Filter cid="DD2457C9-2B2F-4B9E-A115-4EE0E1593C7D">
+		<ChemicalNoise cid="0AA9C970-E0D3-BE7F-672D-102105000000">
+			<Parameter cid="6AC46B3D-C93B-B3EB-2856-E19F25000000">
+				<Cycles type="UInt32">1</Cycles>
+				<Width type="Double">0.2</Width>
+			</Parameter>
+		</ChemicalNoise>
+		<Gauss cid="C8C23A9D-EA45-AC38-5D2C-5BF71D000000">
+			<Parameter cid="692B76C2-254A-928F-9E40-7F9E1A000000">
+				<Cycles type="UInt32">1</Cycles>
+				<Width type="Double">0.2</Width>
+			</Parameter>
+		</Gauss>
+		<SavitzkyGolay cid="1954921C-4193-87CB-1F9C-CD5219000000">
+			<Parameter cid="4D95F395-2FAE-8F3F-3C94-8B9171000000">
+				<Cycles type="UInt32">1</Cycles>
+				<Width type="Double">5</Width>
+			</Parameter>
+		</SavitzkyGolay>
+	</Filter>
+</ComboFilter>
+
+
+</Content>
+</FilterContainer>

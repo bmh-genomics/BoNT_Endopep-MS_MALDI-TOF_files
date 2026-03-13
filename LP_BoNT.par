@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<method name="LP_66kDa.par" date="2003-02-18T11:13:45" creator="flexControl-1.x" flexControlVersion="3.4.206.67" version="1.0" last_modified="2024-12-12T17:27:01-05:00" InstrumentSerialNo="269944.01266" crc32="aa11f8ed">
+   <!--Mode can be LINEAR, REFLECTOR, NEUTRAL, FAST, LIFT or EXPERIMENTAL-->
+   <Mode>LINEAR</Mode>
+   <HighVoltageSupplies>
+      <!--These are all voltages of the instrument-->
+      <IonSource1>20000</IonSource1>
+      <IonSource2>18400</IonSource2>
+      <Lens>8000</Lens>
+      <Reflector>0</Reflector>
+      <Reflector2>0</Reflector2>
+      <Polarity>positive</Polarity>
+      <LinearDetector>7.73698</LinearDetector>
+      <HighMassDetector>0</HighMassDetector>
+      <PieDelay>200</PieDelay>
+   <RelativeMode>0</RelativeMode>
+<PanOn>1</PanOn>
+</HighVoltageSupplies>
+   <Digitizer>
+      <Timebase>2</Timebase>
+      <BandWidthLimit>0</BandWidthLimit>
+      <ElectronicGainLevel>2</ElectronicGainLevel>
+   <BaselineOffsetRel>0</BaselineOffsetRel>
+</Digitizer>
+   <Calibration type="MS">
+      <!--Mode means 1 = linear; 2 = quadratic-->
+      <AccessoryCalibrationInformation>
+<StdDevBeforeReCalibration>0</StdDevBeforeReCalibration>
+<StdDevAfterReCalibration>0</StdDevAfterReCalibration>
+</AccessoryCalibrationInformation>
+<CalibrationGUIParametersMS>
+<SelectedCalibrationStrategy>Interactive</SelectedCalibrationStrategy>
+<UserDefinedPeakAssignmentTolerance>1000</UserDefinedPeakAssignmentTolerance>
+<UserDefinedPeakAssignmentToleranceStatisticalPeptide>500</UserDefinedPeakAssignmentToleranceStatisticalPeptide>
+<NearNeighbourPeakAssignmentTolerance>50</NearNeighbourPeakAssignmentTolerance>
+<SelectedMassControlListNameManual>PeptideCalibStandard avg</SelectedMassControlListNameManual>
+<ZoomRange>10</ZoomRange>
+<ZoomRangeUnitPercent>1</ZoomRangeUnitPercent>
+<PeakAssignmentToleranceSourceManual>ToleranceFromMCL</PeakAssignmentToleranceSourceManual>
+<SelectedMassControlListNameSmart></SelectedMassControlListNameSmart>
+<PeakAssignmentToleranceSourceIsNearNeighbourStatisticalPeptide>0</PeakAssignmentToleranceSourceIsNearNeighbourStatisticalPeptide>
+<CalibrationMode>CalibModeQuadraticC1</CalibrationMode>
+</CalibrationGUIParametersMS>
+<HPCPolynomial></HPCPolynomial>
+<HPCValid>0</HPCValid>
+<CalibrationValid>1</CalibrationValid>
+<c0>2.2916760099417e+002</c0>
+<c1>5.2403765786677e+006</c1>
+<c2>-4.7864568760538e-002</c2>
+<CalibrationState>
+<CalibrationDate>2024-12-12T17:23:53-05:00</CalibrationDate>
+<Algorithm>ReferenceMassAssignement</Algorithm>
+<Mode>Linear Correction</Mode>
+<Result>OK</Result>
+<ProgramName>flexControl</ProgramName>
+<ProgramVersion>3.4.206.67</ProgramVersion>
+<UserName>tof-user</UserName>
+<Comment></Comment>
+<RootSpectrumID>6BA95D5D-8F4F-4C6F-B229-1B741D9668D6</RootSpectrumID>
+<SourceSpectrumID></SourceSpectrumID>
+<SourceSpectrumDesc></SourceSpectrumDesc>
+<RefMassListName>Single peptide for BoNT</RefMassListName>
+<QualityBeforeCalib>0</QualityBeforeCalib>
+<QualityAfterCalib>0</QualityAfterCalib>
+<Calibrant time="21806.88" massb="2466.7052" massa="2466.681" intens="0" mass="2466.681" name="ACTH_clip(18-39)[M+H]+_avg" prob="1" eppm="0" tol="0"></Calibrant>
+</CalibrationState>
+</Calibration>
+   <MassRange>
+      <MassStart>520</MassStart>
+      <MassEnd>6000</MassEnd>
+      <Mode>0</Mode>
+   </MassRange>
+   <MatrixSuppression>
+      <Mode>0</Mode>
+      <DeflectionConstant>0.317586</DeflectionConstant>
+      <CutOffMass>400</CutOffMass>
+      <GateStrength>2</GateStrength>
+   </MatrixSuppression>
+   <Laser>
+      <Shots>50</Shots>
+      <PowerUV>26.5</PowerUV>
+      <Frequency>60.0</Frequency>
+<RasterMode>1</RasterMode>
+<ShotsAtRasterPos>40</ShotsAtRasterPos>
+</Laser>
+   <CID>0</CID>
+   <ProcessingParameterFile>default</ProcessingParameterFile>
+<AutoMSCalibration>
+<AutoXMethod>BoNT_AutoX</AutoXMethod>
+<MinPeakNum>5</MinPeakNum>
+<MaxStdDev>300</MaxStdDev>
+<MaxPeakErr>300</MaxPeakErr>
+<SmoothSpectrum>1</SmoothSpectrum>
+<SaveMethod>1</SaveMethod>
+<DisplayMsg>1</DisplayMsg>
+<MinCoverage>0</MinCoverage>
+<MinIntensThresh>0</MinIntensThresh>
+<SmoothWidth>1</SmoothWidth>
+<UseMinIntensThresh>0</UseMinIntensThresh>
+<UseSmoothWidth>0</UseSmoothWidth>
+<OnePointMCL>Single peptide for BoNT</OnePointMCL>
+<DoOnePointCal>1</DoOnePointCal>
+</AutoMSCalibration>
+</method>

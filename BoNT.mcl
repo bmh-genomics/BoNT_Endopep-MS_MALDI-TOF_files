@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<method Method_ID="1234567890" MethodName="BoNT" xsi:noNamespaceSchemaLocation="schema\masscontrol.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <peak_list>
+        <peak label="Serotype A Cleavage 1" m_z="998.8" tolerance="2000" calibrant="false" background="true" lock="false" adduct="false" calibfreq="0" />
+        <peak label="Serotype A Cleavage 2" m_z="2307.5" tolerance="2000" calibrant="false" background="true" lock="false" adduct="false" calibfreq="0" />
+        <peak label="Serotype A Intact" m_z="3287.3" tolerance="2000" calibrant="false" background="true" lock="false" adduct="false" calibfreq="0" />
+        <peak label="Serotype E Intact" m_z="3615" tolerance="2000" calibrant="false" background="true" lock="false" adduct="false" calibfreq="0" />
+        <peak label="Serotype E Cleavage 1" m_z="1132" tolerance="2000" calibrant="false" background="true" lock="false" adduct="false" calibfreq="0" />
+        <peak label="Serotype E Cleavage 2" m_z="2498.6" tolerance="2000" calibrant="false" background="true" lock="false" adduct="false" calibfreq="0" />
+        <peak label="Serotype F Cleavage 1" m_z="1345.2" tolerance="3000" calibrant="false" background="true" lock="false" adduct="false" calibfreq="0" />
+        <peak label="Serotype F intact" m_z="5111" tolerance="2000" calibrant="false" background="true" lock="false" adduct="false" calibfreq="0" />
+        <peak label="Serotype F Cleavage 2" m_z="3783" tolerance="3000" calibrant="false" background="true" lock="false" adduct="false" calibfreq="0" />
+        <peak label="Serotype B Intact" m_z="4026.5" tolerance="2000" calibrant="false" background="true" lock="false" adduct="false" calibfreq="0" />
+        <peak label="Serotype B Cleavage 1" m_z="1760.0" tolerance="2000" calibrant="false" background="true" lock="false" adduct="false" calibfreq="0" />
+        <peak label="Serotype B Cleavage 2" m_z="2282.3" tolerance="2000" calibrant="false" background="true" lock="false" adduct="false" calibfreq="0" />
+        <peak label="Serotype F5 Cleavage 1" m_z="1874" tolerance="2000" calibrant="false" background="true" lock="false" adduct="false" calibfreq="0" />
+        <peak label="Serotype F5 Cleavage 2" m_z="3255" tolerance="2000" calibrant="false" background="true" lock="false" adduct="false" calibfreq="0" />
+    </peak_list>
+</method>
